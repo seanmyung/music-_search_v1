@@ -6,7 +6,9 @@ Built a "Album Search" app using the Spotify API.  The search form of the applic
 ### Used Skills: jQuery, AJAX
 
 ## Images In ReadMes
-### 
+### Search Form
 ![](examples/no-albums-found.png)
+### Search Album
 ![](examples/search_album.png)
+### Album Detail
 ![](examples/album_detail.png)
